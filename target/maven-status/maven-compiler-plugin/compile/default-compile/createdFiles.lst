@@ -1,0 +1,16 @@
+library\AbstractEvent$1.class
+library\config\kafka\KafkaProcessor.class
+library\Registered.class
+library\Returned.class
+library\BookController.class
+library\BookApplication.class
+library\Booklist.class
+library\Cancelled.class
+library\Rentaled.class
+library\BooklistRepository.class
+library\BooklistViewHandler.class
+library\Reserved.class
+library\AbstractEvent.class
+library\BookRepository.class
+library\PolicyHandler.class
+library\Book.class
